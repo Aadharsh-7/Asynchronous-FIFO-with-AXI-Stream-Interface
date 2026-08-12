@@ -191,7 +191,7 @@ Through this project, I gained practical understanding of:
 
 * Verilog HDL
 * Vivado
-* FPGA development board
+*BOOLEAN FPGA development board
 
 ## Author
 
